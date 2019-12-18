@@ -9,7 +9,7 @@ class CreateTodo extends Component {
             <label>add todo</label>
             <input type="text" />
           </p>
-          <input type="submit" /> 
+          <input type="submit" />
         </form>
       </div>
     )
