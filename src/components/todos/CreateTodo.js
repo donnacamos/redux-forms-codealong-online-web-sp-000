@@ -12,7 +12,7 @@ class CreateTodo extends Component {
           <input type="submit" />
         </form>
       </div>
-    )
+    );
   }
 }
 
